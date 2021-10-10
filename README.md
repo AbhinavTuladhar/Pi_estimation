@@ -1,6 +1,6 @@
 # Pi_estimation
 
-## Modules required: pygame, random
+## Modules required: pygame, random, math
 
 This is basically a program to estimate the value of pi using the Monte-Carlo method.
 
